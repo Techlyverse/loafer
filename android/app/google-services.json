@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254536542283",
+    "project_id": "techlyverse01",
+    "storage_bucket": "techlyverse01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254536542283:android:7be9697db922445a4045ce",
+        "android_client_info": {
+          "package_name": "com.techlyverse.loafer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254536542283-37eamb056mtfqqousv21ntv2cet6agjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx-69YdxIyX5VXHFutTh5otJRW_eQG5Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254536542283-37eamb056mtfqqousv21ntv2cet6agjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
